@@ -1,0 +1,8 @@
+{
+  "name": "你想要什么",
+  "short_name": "你想要什么",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
